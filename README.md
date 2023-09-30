@@ -3,6 +3,7 @@
 #pip intall stramlit datetime yfinance prophet plotly
 
 #ในการรันไฟล์ โปรดรันไฟล์บน visual studio code หรือ pycharm โปรดอย่ารันไฟลล์บน online เช่น google colab มิฉะนั้นตอนรันลิงค์ออกมาลิงค์จะไม่สามารถโหลด Project ที่ทำได้
+
 #ตอนรันไฟลล์ จะขึ้น to view this Streamlit app on a browser, run it with the following
   command: 
   streamlit run ที่อยู่ไฟลล์ 
